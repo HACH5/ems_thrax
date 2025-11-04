@@ -3,11 +3,6 @@
   <variationData>
     <Item>
       <modelName>ems_thrax</modelName>
-      <modKits>
-        <Item>
-          <modKit>777_ems_thrax_modkit</modKit>
-        </Item>
-      </modKits>
       <colors>
         <Item>
           <indices content="char_array">
@@ -150,6 +145,9 @@
           </liveries>
         </Item> 
       </colors>
+      <kits>
+        <Item>777_ems_thrax_modkit</Item>
+      </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
         <Probabilities>
